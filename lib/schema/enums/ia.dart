@@ -1,0 +1,4 @@
+enum IA {
+  closest,
+  wounded,
+}
